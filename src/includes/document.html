@@ -1,0 +1,24 @@
+---
+title: OSOM Guide
+---
+<!DOCTYPE html>
+<html lang="en">
+  {% include 'headtag.html' %}
+  <body>
+    <div id="body">
+    {% include 'header.html' %}
+
+    <aside {% if hideaside %}class="hide"{% endif %}>
+      <h3>{% if asidetitle %}{{ asidetitle | safe }}{% else %}In this page...{% endif %}</h3>
+      {{ content | toc | safe }}
+    </aside>
+
+    <main {% if hideaside %}class="full-width"{% endif %}>
+      {% if subtitle %}<h2 class="sub-title">{{ subtitle | safe }}</h2>{% endif %}
+      {{ content | safe }}
+    </main>
+
+    {% include 'footer.html' %}
+    </div>
+  </body>
+</html>
