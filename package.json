@@ -4,7 +4,7 @@
   "description": "A guide to the Organised Services Operating Model",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jamesaduncan/osom.guide"
+    "url": "https://github.com/Planning-Inspectorate/osom-guide"
   },
   "main": "index.js",
   "scripts": {
