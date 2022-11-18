@@ -255,13 +255,13 @@ menu li:focus-within a {
   display: block;
   width: 2em;
   height: 2em;
-  background: url(assets/img/operating-model-grey.svg);
+  background: url(./assets/img/operating-model-grey.svg);
   background-size: 2em 2em;
 }
 
 .logo:hover {
   display: block;
-  background: url(assets/img/operating-model-colour.svg);
+  background: url(./assets/img/operating-model-colour.svg);
 }
 
 /**
