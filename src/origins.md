@@ -9,8 +9,8 @@ application by [Stance](http://stance.consulting/).  The operating model has evo
 encouraging a [common set of good behaviours](/doctrine) at multiple organisations and
 discovering an organisational design and supporting processes that occur as a consequence.
 
-[![a diagram showing the origins of the various parts of](/assets/img/opmodel-overview.jpg "OSOM
-Oviewview")](/assets/img/opmodel-overview.jpg "Operating model
+[![a diagram showing the origins of the various parts of](assets/img/opmodel-overview.jpg "OSOM
+Oviewview")](assets/img/opmodel-overview.jpg "Operating model
 origins diagram")
 
 ## Previous documentation

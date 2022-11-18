@@ -8,7 +8,7 @@ subtitle: ''
 ---
 # Introduction to OSOM
 
-<img class="right pad-left" src="/assets/img/operating-model-overview.png" alt="a diagram showing an overview of the basic parts of OSOM" title="OSOM Overview">
+<img class="right pad-left" src="assets/img/operating-model-overview.png" alt="a diagram showing an overview of the basic parts of OSOM" title="OSOM Overview">
 
 The Organised Services Operating Model (OSOM) is a template operating
 model to help organisations adopt a service-based approach. This is in
