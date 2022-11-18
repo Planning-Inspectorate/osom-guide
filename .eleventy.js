@@ -72,6 +72,7 @@ module.exports = function (eleventyConfig) {
 
   return {
     htmlTemplateEngine: "njk",
+    pathPrefix: "/osom-guide/",
     dir: {
       includes: "includes",
       input: "src",

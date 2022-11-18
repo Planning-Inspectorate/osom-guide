@@ -4,7 +4,7 @@
   "description": "A guide to the Organised Services Operating Model",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Planning-Inspectorate/osom-guide"
+    "url": "https://github.com/Planning-Inspectorate"
   },
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "guide",
     "website"
   ],
-  "author": "James A. Duncan <james@stance.global>",
+  "author": "The Planning Inspectorate",
   "license": "ISC",
   "dependencies": {
     "follow-redirects": ">=1.14.7",

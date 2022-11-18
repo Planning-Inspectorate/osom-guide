@@ -8,11 +8,11 @@ Service assessment reports are published in a repository visible to everybody in
 
 - **Assessment date**
 - **Result:** _Met_ or _Not Met_
-- **Stage:** the service's [lifecycle stage](/osom-guide/lifecycle), when assessed
+- **Stage:** the service's [lifecycle stage](/lifecycle), when assessed
 - **Service manager**
-- **Service contract:** a copy of, or link to the specific version of the service contract (in particular: description, [user needs](/osom-guide/user-needs), and [metrics](/osom-guide/measuring-service-performance))
+- **Service contract:** a copy of, or link to the specific version of the service contract (in particular: description, [user needs](/user-needs), and [metrics](/measuring-service-performance))
 - **Assessors:** names of the people representing the executive
-- **Assessment criteria**: an itemised list of [criteria](/osom-guide/service-assessment-criteria) used to assess the service, including:
+- **Assessment criteria**: an itemised list of [criteria](/service-assessment-criteria) used to assess the service, including:
   - criteria name, and link to more information
   - decision (_Met_ or _Not Met_)
   - what the team has done well

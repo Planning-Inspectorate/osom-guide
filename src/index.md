@@ -16,11 +16,11 @@ opposition to a functional model, where capabilities are grouped by
 skills and ownership of the delivery to users is an endeavour shared
 between those functions.
 
-The operating model has evolved by encouraging a [common set of good behaviours](/osom-guide/doctrine) at multiple organisations and discovering an organisational design and supporting processes that occur as a consequence.
+The operating model has evolved by encouraging a [common set of good behaviours](/doctrine) at multiple organisations and discovering an organisational design and supporting processes that occur as a consequence.
 
 The key components of OSOM are an executive capability that provides
 oversight & governance and a network of services that progress through
-a simple [service lifecycle](/osom-guide/lifecycle) compatible with the
+a simple [service lifecycle](/lifecycle) compatible with the
 [Government Digital
 Service's](https://www.gov.uk/government/organisations/government-digital-service)
 [service manual](https://www.gov.uk/service-manual).
@@ -38,15 +38,15 @@ The key to adapting an operating model for any organisation is to be aware of th
 
 ### The executive
 
-The [OSOM executive](/osom-guide/executive) governs the network of services and
+The [OSOM executive](/executive) governs the network of services and
 holds the managers of those services to account through various
 mechanisms documented in terms of reference.
 
-The executive also has a role in advocating and monitoring the adoption of [guides to better decisions](/osom-guide/doctrine) throughout the organisation, which provides a collection of 40 universally useful patterns of behaviour that should be encouraged wherever possible.
+The executive also has a role in advocating and monitoring the adoption of [guides to better decisions](/doctrine) throughout the organisation, which provides a collection of 40 universally useful patterns of behaviour that should be encouraged wherever possible.
 
 ### The service network
 
-[OSOM services](/osom-guide/services/) address the needs of users. For any given
+[OSOM services](/services/) address the needs of users. For any given
 service, the users may be external to the organisation, internal, or a
 mixture of both.
 

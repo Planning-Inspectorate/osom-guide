@@ -23,23 +23,23 @@ Service managers:
 
 ### Service managers are accountable for their service
 
-Each service has a [contract](/osom-guide/service-contract) that defines the service, the needs it meets, and how users consume it. Service managers are accountable for delivery against that contract. Within the bounds of that contract, they are free to deliver the service as they see fit. The service is autonomous and operates independently.
+Each service has a [contract](/service-contract) that defines the service, the needs it meets, and how users consume it. Service managers are accountable for delivery against that contract. Within the bounds of that contract, they are free to deliver the service as they see fit. The service is autonomous and operates independently.
 
 ### Service managers use the allocated service budget wisely
 
-Each service is allocated a budget by the [executive](/osom-guide/executive) and is responsible for ensuring it is used wisely. This budget should allow the service manager to build the team they need and perform any activities needed for its [lifecycle stage](/osom-guide/lifecycle).
+Each service is allocated a budget by the [executive](/executive) and is responsible for ensuring it is used wisely. This budget should allow the service manager to build the team they need and perform any activities needed for its [lifecycle stage](/lifecycle).
 
 ### Service managers build the team they need
 
-Services need different capabilities at different times. For example, a service in [discovery](/osom-guide/lifecycle/#discovery) will have more user researchers than a [live](/osom-guide/lifecycle/#live) service; a service in [alpha ](/osom-guide/lifecycle/#alpha)or [beta ](/osom-guide/lifecycle/#beta)will probably have more developers than a service that is live.
+Services need different capabilities at different times. For example, a service in [discovery](/lifecycle/#discovery) will have more user researchers than a [live](/lifecycle/#live) service; a service in [alpha ](/lifecycle/#alpha)or [beta ](/lifecycle/#beta)will probably have more developers than a service that is live.
 
 It is up to the service manager to staff the team as they see fit, with the people they need to perform the required activities. The cost of the team needs to be met from the budget that the service has been allocated.
 
-Members of the team are line-managed by the service manager, or by the management structure that the service manager puts in place. In all cases, the performance of team members should be considered in accordance with guidance from the [community of practice](/osom-guide/community-of-practice) that represents their profession.
+Members of the team are line-managed by the service manager, or by the management structure that the service manager puts in place. In all cases, the performance of team members should be considered in accordance with guidance from the [community of practice](/community-of-practice) that represents their profession.
 
 ### Service managers decide the way they run their team
 
-Different types of services require different approaches for different stages of [evolution](/osom-guide/evolution/), and different [lifecycle](/osom-guide/lifecycle/) phases. A novel service that addresses user needs in a completely new way requires different project methodologies, people, and techniques from the operation of a product or the management of a contract from a third-party supplier.
+Different types of services require different approaches for different stages of [evolution](/evolution/), and different [lifecycle](/lifecycle/) phases. A novel service that addresses user needs in a completely new way requires different project methodologies, people, and techniques from the operation of a product or the management of a contract from a third-party supplier.
 
 For example, a service team building a beta web-based front-end that interacts with end-users requires a different set of approaches to an infrastructure cloud service that provides the front-end team with the machines it uses.
 
@@ -47,15 +47,15 @@ The service manager is accountable for deciding the most appropriate way to run 
 
 ### Service managers publish Correction of Error documents when problems arise
 
-Building and running a service is challenging at times, and issues and problems occur regularly. To help the organisation learn in a methodical, systematic way, service managers write about the problems they face in [Correction of Error](/osom-guide/coe/) documents.
+Building and running a service is challenging at times, and issues and problems occur regularly. To help the organisation learn in a methodical, systematic way, service managers write about the problems they face in [Correction of Error](/coe/) documents.
 
 ### Publish measurements for their service
 
-Each service has relevant measurements recorded in its service contract. The service manager has to ensure that the values for those measurements are captured regularly, and [reported in an appropriate way](/osom-guide/measuring-service-performance/#recording-service-performance-measures/).
+Each service has relevant measurements recorded in its service contract. The service manager has to ensure that the values for those measurements are captured regularly, and [reported in an appropriate way](/measuring-service-performance/#recording-service-performance-measures/).
 
 ### Highlight where their service is not meeting needs
 
-In some cases, the users of a service may express a desire to have additional needs met by the service. The service manager should not unilaterally decide to meet those needs but should highlight the opportunity as it is presented to the [executive ](/osom-guide/executive/)during future [Service Assessments](/osom-guide/assessments/).
+In some cases, the users of a service may express a desire to have additional needs met by the service. The service manager should not unilaterally decide to meet those needs but should highlight the opportunity as it is presented to the [executive ](/executive/)during future [Service Assessments](/assessments/).
 
 ## Service manager role
 
