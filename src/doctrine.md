@@ -2,12 +2,12 @@
 layout: document
 subtitle: Making better decisions
 tags:
-- concept
-
+  - concept
 ---
+
 OSOM builds upon and endorses a set of guides to better decisions known as "Wardley's Doctrine".
 
-Simon Wardley's doctrine is a collection of patterns that were carefully researched from the world's most successful organisations, and have been used to evaluate and then underpin its approach to improving organisations, and ultimately to develop [OSOM](/)
+Simon Wardley's doctrine is a collection of patterns that were carefully researched from the world's most successful organisations, and have been used to evaluate and then underpin its approach to improving organisations, and ultimately to develop [OSOM](/osom-guide/)
 
 The decision guides don’t inform us of the precise steps that need to be taken, but they do help us to understand how we’d prefer to see an organisation act: whether it’s assumptions being challenged freely and often, ensuring the user needs are focused upon, embracing uncertainty, or using failure as a tool, amongst others.
 
@@ -124,7 +124,7 @@ building one from scratch.
 
 After we've built things, we need to run them.
 
-In this section, we'll consider the various doctrine patterns that impact most strongly on our operations. Are we all over the things that we need to know about?  Do we know why we are doing certain things in certain ways? Do we allow that there might be new and better approaches for things we're already doing?
+In this section, we'll consider the various doctrine patterns that impact most strongly on our operations. Are we all over the things that we need to know about? Do we know why we are doing certain things in certain ways? Do we allow that there might be new and better approaches for things we're already doing?
 
 Do we build the expectation of failure into how we operate? And do we try to set exceptional standards in everything we do?
 
@@ -195,7 +195,7 @@ An imperfect plan executed today is better than a perfect plan executed tomorrow
 
 ### Do we recognise that strategy is iterative?
 
-Instead of long-winded plans, we will have a direction towards a position and adapt as needed. We will "cross the river by feeling the stones".  Do we pick a direction and stick to it, while adapting to challenges along the way?  Once we've set a direction we commit to it.
+Instead of long-winded plans, we will have a direction towards a position and adapt as needed. We will "cross the river by feeling the stones". Do we pick a direction and stick to it, while adapting to challenges along the way? Once we've set a direction we commit to it.
 
 There will often be hurdles and obstacles but we don't just simply abandon a direction because a single step is challenging. We try to find paths around the obstacles. When we're building systems and a common component isn't quite as expected then that is a potential opportunity.
 
@@ -217,7 +217,7 @@ We listen to others, act selflessly, have fortitude and humility. We inspire oth
 
 ### Do we try to exploit the landscape we find ourselves in?
 
-We use the landscape to your advantage. We look for and exploit powerful force multipliers to make the right moves, at the right times.  Do we recognise that there is no core?  Everything is transient, whatever we think is core to what we are doing now, won't be at some point in the future. The only things that are truly static are dead.
+We use the landscape to your advantage. We look for and exploit powerful force multipliers to make the right moves, at the right times. Do we recognise that there is no core? Everything is transient, whatever we think is core to what we are doing now, won't be at some point in the future. The only things that are truly static are dead.
 
 ## Structure
 

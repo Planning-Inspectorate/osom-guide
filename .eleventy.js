@@ -9,16 +9,16 @@ let markdownItFootnote = require("markdown-it-footnote");
 let TOC = require("eleventy-plugin-toc");
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("src/includes/assets/css");
-  eleventyConfig.addPassthroughCopy("src/includes/assets/img");
+  eleventyConfig.addPassthroughCopy("src/assets/css");
+  eleventyConfig.addPassthroughCopy("src/assets/img");
   eleventyConfig.addPlugin(TOC);
 
   function removeExtraText(s) {
-    let newStr = String(s).replace(/New\ in\ v\d+\.\d+\.\d+/, "");
-    newStr = newStr.replace(/Coming\ soon\ in\ v\d+\.\d+\.\d+/, "");
-    newStr = newStr.replace(/⚠️/g, "");
-    newStr = newStr.replace(/[?!]/g, "");
-    newStr = newStr.replace(/<[^>]*>/g, "");
+    let newStr = String(s).replace(/osom-guide/New\ in\ v\d+\.\d+\.\d+/, "");
+    newStr = newStr.replace(/osom-guide/Coming\ soon\ in\ v\d+\.\d+\.\d+/, "");
+    newStr = newStr.replace(/osom-guide/⚠️/g, "");
+    newStr = newStr.replace(/osom-guide/[?!]/g, "");
+    newStr = newStr.replace(/osom-guide/<[^>]*>/g, "");
     return newStr;
   }
 
@@ -27,11 +27,11 @@ module.exports = function (eleventyConfig) {
   }
 
   function removeExtraText(s) {
-    let newStr = String(s).replace(/New\ in\ v\d+\.\d+\.\d+/, "");
-    newStr = newStr.replace(/Coming\ soon\ in\ v\d+\.\d+\.\d+/, "");
-    newStr = newStr.replace(/⚠️/g, "");
-    newStr = newStr.replace(/[?!]/g, "");
-    newStr = newStr.replace(/<[^>]*>/g, "");
+    let newStr = String(s).replace(/osom-guide/New\ in\ v\d+\.\d+\.\d+/, "");
+    newStr = newStr.replace(/osom-guide/Coming\ soon\ in\ v\d+\.\d+\.\d+/, "");
+    newStr = newStr.replace(/osom-guide/⚠️/g, "");
+    newStr = newStr.replace(/osom-guide/[?!]/g, "");
+    newStr = newStr.replace(/osom-guide/<[^>]*>/g, "");
     return newStr;
   }
 
@@ -57,7 +57,7 @@ module.exports = function (eleventyConfig) {
         return removeExtraText(heading);
       },
       transformLink: function (link) {
-        return link.replace(/\%60/g, "");
+        return link.replace(/osom-guide/\%60/g, "");
       },
     })
     .use(markdownItFootnote, {});
