@@ -7,4 +7,3 @@ include:
   - /src/*.md
   - /src/*.html
   - /src/assets/*
-  - /src/moresoon.html

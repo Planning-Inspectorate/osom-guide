@@ -16,5 +16,3 @@ Novelties should be relatively uncommon in any organisation, and frequently repr
 ## Bespoke, or custom
 
 Services that have been developed with a particular organisation in mind, but can be found in other organisations are bespoke. An example of a bespoke component might be an IVR system for a call centre.
-
-{% include moresoon.html %}

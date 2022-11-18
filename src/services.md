@@ -23,5 +23,3 @@ To govern the network of services, the [executive](/executive) requires addition
 2. Performance data
 3. The guidance that the service manager has rejected
 4. [Correction of Error documents](/coe-document/) as they are created
-
-{% include moresoon.html %}
