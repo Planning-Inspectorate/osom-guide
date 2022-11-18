@@ -10,7 +10,8 @@
   "scripts": {
     "test": "tap",
     "develop": "npx @11ty/eleventy --serve",
-    "build": "npx @11ty/eleventy"
+    "build": "env NODE_ENV=production npx eleventy --pathprefix 'osom-guide'"
+
   },
   "keywords": [
     "OSOM",
@@ -20,10 +21,10 @@
   "author": "James A. Duncan <james@stance.global>",
   "license": "ISC",
   "dependencies": {
+    "follow-redirects": ">=1.14.7",
     "@11ty/eleventy": "^0.12.1",
     "axios": ">=0.21.2",
     "eleventy-plugin-toc": "^1.1.5",
-    "follow-redirects": "^1.15.2",
     "markdown-it": ">=12.3.2",
     "markdown-it-anchor": "^7.1.0",
     "markdown-it-footnote": "^3.0.3",
