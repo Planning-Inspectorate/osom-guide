@@ -1,7 +1,7 @@
 {% block menuitem %}
 <li aria-haspopup="true">
   {% if url %}
-  <a href="{{ url }}">{{ title }}</a>
+  <a href="/{{ url }}">{{ title }}</a>
   {% else %}
   <a href="#">{{ title }}</a>
   {% endif %}
