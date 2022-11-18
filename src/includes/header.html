@@ -1,0 +1,23 @@
+<header>
+  <nav class="top">
+  <a href="/"><div class="logo"></div></a>
+  <h1><a href="/">{% if title %}{{ title }}{% else %}OSOM Guide{% endif %}</a></h1>
+
+  {% set sections = [
+  { title: "Introduction", url: "/" },
+  { title: "Concepts", collection: collections.concept },
+  { title: "People", collection: collections.people },
+  { title: "Processes", collection: collections.processes },
+  { title: "Artefacts", collection: collections.artefact }]
+  %}
+  <menu>
+    {% for section in sections %}
+    {% set url = section.url %}
+    {% set title = section.title %}
+    {% set collection = section.collection %}
+    {% include "menuitem.html" %}
+    {% endfor %}
+  </menu>
+  </nav>
+
+</header>
