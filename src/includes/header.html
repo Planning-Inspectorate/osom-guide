@@ -1,10 +1,10 @@
 <header>
   <nav class="top">
-  <a href="/"><div class="logo"></div></a>
-  <h1><a href="/">{% if title %}{{ title }}{% else %}OSOM Guide{% endif %}</a></h1>
+  <a href="/osom-guide/"><div class="logo"></div></a>
+  <h1><a href="/osom-guide/">{% if title %}{{ title }}{% else %}OSOM Guide{% endif %}</a></h1>
 
   {% set sections = [
-  { title: "Introduction", url: "/" },
+  { title: "Introduction", url: "/osom-guide/" },
   { title: "Concepts", collection: collections.concept },
   { title: "People", collection: collections.people },
   { title: "Processes", collection: collections.processes },
