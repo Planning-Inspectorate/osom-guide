@@ -10,7 +10,7 @@
   "scripts": {
     "test": "tap",
     "develop": "npx @11ty/eleventy --serve",
-    "build": "npx @11ty/eleventy"
+    "build": "MY_PREFIX=/osom-guide npx @11ty/eleventy"
   },
   "keywords": [
     "OSOM",
