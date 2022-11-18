@@ -1,0 +1,43 @@
+---
+label: Standard Document
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: document
+- type: text
+  name: subtitle
+  label: Document title
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+  description: Should be set to "concept", "people", "processes", or "artefact"
+pages:
+- src/assessments.md
+- src/capitalflow.md
+- src/coe-document.md
+- src/coe.md
+- src/community-of-practice.md
+- src/demand-management.md
+- src/doctrine.md
+- src/establishing-a-new-service.md
+- src/evolution.md
+- src/executive-team-member.md
+- src/executive.md
+- src/index.md
+- src/lifecycle.md
+- src/measuring-service-performance.md
+- src/operating-model.md
+- src/policy.md
+- src/service-assessment-criteria.md
+- src/service-assessment-report.md
+- src/service-autonomy.md
+- src/service-contract.md
+- src/service-network.md
+- src/service-team-members.md
+- src/services.md
+- src/user-needs.md
+- src/what-happens-when.md
