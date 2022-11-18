@@ -12,7 +12,7 @@
   %}
   <menu>
     {% for section in sections %}
-    {% set url = ["/osom-guide/", section.url] | join %}
+    {% set url = section.url %}
     {% set title = section.title %}
     {% set collection = section.collection %}
     {% include "menuitem.html" %}
