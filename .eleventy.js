@@ -70,8 +70,6 @@ module.exports = function (eleventyConfig) {
     return theString.toLowerCase();
   });
 
-  eleventyConfig.addShortcode("myPrefix", () => process.env.MY_PREFIX);
-
   return {
     htmlTemplateEngine: "njk",
     pathPrefix: "/osom-guide/",
