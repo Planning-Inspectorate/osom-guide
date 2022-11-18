@@ -14,11 +14,11 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(TOC);
 
   function removeExtraText(s) {
-    let newStr = String(s).replace(/osom-guide/New\ in\ v\d+\.\d+\.\d+/, "");
-    newStr = newStr.replace(/osom-guide/Coming\ soon\ in\ v\d+\.\d+\.\d+/, "");
-    newStr = newStr.replace(/osom-guide/⚠️/g, "");
-    newStr = newStr.replace(/osom-guide/[?!]/g, "");
-    newStr = newStr.replace(/osom-guide/<[^>]*>/g, "");
+    let newStr = String(s).replace(/New\ in\ v\d+\.\d+\.\d+/, "");
+    newStr = newStr.replace(/Coming\ soon\ in\ v\d+\.\d+\.\d+/, "");
+    newStr = newStr.replace(/⚠️/g, "");
+    newStr = newStr.replace(/[?!]/g, "");
+    newStr = newStr.replace(/<[^>]*>/g, "");
     return newStr;
   }
 
@@ -27,11 +27,11 @@ module.exports = function (eleventyConfig) {
   }
 
   function removeExtraText(s) {
-    let newStr = String(s).replace(/osom-guide/New\ in\ v\d+\.\d+\.\d+/, "");
-    newStr = newStr.replace(/osom-guide/Coming\ soon\ in\ v\d+\.\d+\.\d+/, "");
-    newStr = newStr.replace(/osom-guide/⚠️/g, "");
-    newStr = newStr.replace(/osom-guide/[?!]/g, "");
-    newStr = newStr.replace(/osom-guide/<[^>]*>/g, "");
+    let newStr = String(s).replace(/New\ in\ v\d+\.\d+\.\d+/, "");
+    newStr = newStr.replace(/Coming\ soon\ in\ v\d+\.\d+\.\d+/, "");
+    newStr = newStr.replace(/⚠️/g, "");
+    newStr = newStr.replace(/[?!]/g, "");
+    newStr = newStr.replace(/<[^>]*>/g, "");
     return newStr;
   }
 
@@ -57,7 +57,7 @@ module.exports = function (eleventyConfig) {
         return removeExtraText(heading);
       },
       transformLink: function (link) {
-        return link.replace(/osom-guide/\%60/g, "");
+        return link.replace(/\%60/g, "");
       },
     })
     .use(markdownItFootnote, {});
