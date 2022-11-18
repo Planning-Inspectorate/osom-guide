@@ -10,8 +10,7 @@
   "scripts": {
     "test": "tap",
     "develop": "npx @11ty/eleventy --serve",
-    "build": "env NODE_ENV=production npx eleventy --pathprefix 'osom-guide'"
-
+    "build": "npx @11ty/eleventy"
   },
   "keywords": [
     "OSOM",
