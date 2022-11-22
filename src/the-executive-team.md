@@ -113,6 +113,6 @@ In any service network, disputes will arise between services that serve each oth
 
 ## Monitor and advocate better decision making
 
-The executive is responsible for advocating and monitoring the adherence to the [40 guides to better decision](/osom-guide/making-better-decisions)s. One of the ways in which this happens is through the [Correction of Error process](/osom-guide/correction-of-errors/).
+The executive is responsible for advocating and monitoring the adherence to the [40 guides to better decisions](/osom-guide/making-better-decisions). One of the ways in which this happens is through the [Correction of Error process](/osom-guide/correction-of-errors/).
 
 Each of the elements of OSOM has been designed in conjunction with the application of those behaviours, and the executive is responsible for constantly being aware of opportunities to alter the operating model more in line with them when needed.
