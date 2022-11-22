@@ -51,7 +51,7 @@ Building and running a service is challenging at times, and issues and problems 
 
 ### Publish measurements for their service
 
-Each service has relevant measurements recorded in its service contract. The service manager has to ensure that the values for those measurements are captured regularly, and [reported in an appropriate way](/osom-guide/measuring-service-performance/#recording-service-performance-measures/).
+Each service has relevant measurements recorded in its service contract. The service manager has to ensure that the values for those measurements are captured regularly and [reported in an appropriate way](/osom-guide/measuring-service-performance/#recording-service-performance-measures/).
 
 ### Highlight where their service is not meeting needs
 
