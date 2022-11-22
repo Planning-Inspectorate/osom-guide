@@ -5,6 +5,8 @@ tags:
   - people
 ---
 
+**To be replaced with DDaT and Civil Service Success Profile capabilities and PINS D&D "People Focused" approach to be replace the service manager responsibilities and support measures above.**
+
 ## Service managers
 
 Service managers individually manage services. Ideally, the service manager would have the capability to deliver every element of their service - designing it, building or buying it, and then running it - however, in practice, they must build and manage a team capable of doing all of those things.
@@ -84,64 +86,8 @@ The organisation’s executive requires services managers to:
 
 A service manager may not have each of these skills, but in order for a service to operate it is likely the team will be able to display them.
 
-### Methods
 
-- [**Project management**](https://sfia-online.org/en/sfia-8/skills/project-management). Delivering agreed outcomes from projects using appropriate management techniques, collaboration, leadership and governance. applicable to all project management techniques and life cycles — which can be on a continuum from **predictive (plan-driven)** approaches to **adaptive (iterative/agile)** approaches. (Level 4+)
-- [**Programme management**](https://sfia-online.org/en/sfia-8/skills/programme-management). Identifying, planning and coordinating a set of related projects and activities in support of specific business strategies and objectives. (Larger services only: Level 6)
-- [**Methods and tools**](https://sfia-online.org/en/sfia-8/skills/methods-and-tools). Ensuring methods and tools are adopted and used effectively throughout the service. (Level 4+)
 
-### Finance
-
-- [**Financial management**](https://sfia-online.org/en/sfia-8/skills/financial-management). Supporting the effective use and control of financial resources. (Level 4)
-- [**Investment appraisal**](https://sfia-online.org/en/sfia-8/skills/investment-appraisal). Assessing the attractiveness of possible investments or projects. (Level 4)
-
-### Operations
-
-- [**Service level management**](https://sfia-online.org/en/sfia-8/skills/service-level-management). Analysing and proactively managing business demand for new services or modifications to existing service features or volumes. (Level 7)
-- [**Demand management**](https://sfia-online.org/en/sfia-8/skills/demand-management). Analysing and proactively managing business demand for new services or modifications to existing service features or volumes. (Level 5+)
-- [**Measurement**](https://sfia-online.org/en/sfia-8/skills/measurement). Developing and operating a measurement capability to support agreed organisational information needs. (Level 3-4)
-- [**Problem management**](https://sfia-online.org/en/sfia-8/skills/problem-management). Managing the life cycle of all problems that have occurred or could occur in delivering a service. (Level 5)
-- [**Information security**](https://sfia-online.org/en/sfia-8/skills/information-security). Defining and operating a framework of security controls and security management strategies. (Level 3)
-- [**Quality management**](https://sfia-online.org/en/sfia-8/skills/quality-management). Defining and operating a management framework of processes and working practices to deliver the organisation's quality objectives. (Level 3+)
-- [**Contract management**](https://sfia-online.org/en/sfia-8/skills/contract-management). Managing and controlling the operation of formal contracts for the supply of products and services. (**For services that outsource only.** Level 6)
-
-### Product
-
-- [**Product management**](https://sfia-online.org/en/sfia-8/skills/performance-management). Managing and developing products or services through their full life cycle from inception, growth, maturity, decline to retirement. (**For services with products only.** Level 4+)
-
-### Management
-
-- [**Organisation design & implementation**](https://sfia-online.org/en/sfia-8/skills/organisation-design-and-implementation). Planning, designing and implementing an integrated organisation structure and culture. (Level 4 for small services, Level 6-7 for large services)
-- [**Performance management**](https://sfia-online.org/en/sfia-8/skills/performance-management). Improving organisational performance by developing the performance of individuals and workgroups to meet agreed objectives with measurable results. (Small services: Level 4; Large services: Level 5-6)
-- [**Competency assessment**](https://sfia-online.org/en/sfia-8/skills/competency-assessment). Assessing knowledge, skills, competency and behaviours by any means, whether formal or informal, against frameworks such as SFIA. (Level 3+)
-
-## SFIA levels of responsibility
-
-The following SFIA levels of responsibility are appropriate for Service Managers. They represent a minimum rather than a level of attainment.
-
-This text has been copied verbatim from the [SFIA site](https://sfia-online.org/).
-
-### [Autonomy](https://sfia-online.org/en/sfia-8/responsibilities/autonomy)
-
-**Level 6 - Initiate, influence**
-
-Has defined authority and accountability for actions and decisions within a significant area of work, including technical, financial and quality aspects. Establishes organisational objectives and assigns responsibilities.
-
-### [Influence](https://sfia-online.org/en/sfia-8/responsibilities/influence)
-
-**Level 5 - Ensure, advise**
-
-Influences organisation, customers, suppliers, partners and peers on the contribution of own specialism. Makes decisions which impact the success of assigned work, i.e. results, deadlines and budget. Has significant influence over the allocation and management of resources appropriate to given assignments. Leads on user/customer and group collaboration throughout all stages of work. Ensures users’ needs are met consistently through each work stage. Builds appropriate and effective business relationships across the organisation and with customers, suppliers and partners. Creates and supports collaborative ways of working across group/area of responsibility. Facilitates collaboration between stakeholders who have diverse objectives.
-
-### [Complexity](https://sfia-online.org/en/sfia-8/responsibilities/complexity)
-
-**Level 3 - Apply**
-
-Performs a range of work, sometimes complex and non-routine, in a variety of environments. Applies a methodical approach to routine and moderately complex issue definition and resolution. Applies and contributes to creative thinking or finds new ways to complete tasks.
-
-### [Business skills](https://sfia-online.org/en/sfia-8/responsibilities/business-skills)
-
-**Level 3 - Apply**
 
 - Demonstrates effective oral and written communication skills when engaging on issues with colleagues, users/customers, suppliers and partners.
 - Understands and effectively applies appropriate methods, tools, applications and processes.
