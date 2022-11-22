@@ -13,7 +13,7 @@ The decision guides don’t inform us of the precise steps that need to be taken
 
 This text has been derived from [Simon Wardley's writings on medium](http://medium.com/wardleymaps) and in [Wardleypedia](https://wardleypedia.org/mediawiki/index.php/Doctrine_Patterns)
 
-[![Wardley's Doctrine](./assets/img/doctrine-behaviours.png)](./assets/img/doctrine-behaviours.png)
+[![Wardley's Doctrine](../src/assets/img/doctrine-behaviours.png)](../src/assets/img/doctrine-behaviours.png)
 
 ## Communication
 
