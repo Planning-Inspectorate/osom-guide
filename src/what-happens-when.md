@@ -10,11 +10,11 @@ When a service finds savings against its budget, it should be free to invest tha
 
 ## ...a service needs additional funding
 
-If a service feels that it cannot meet the needs enumerated in its service contract with the budget it has available, the [service manager](/osom-guide/service-manager/) should engage in a dialogue with the [executive ](/osom-guide/executive/)to either narrow the scope of the service or to expand the budget.
+If a service feels that it cannot meet the needs enumerated in its service contract with the budget it has available, the [service manager](/osom-guide/service-manager/) should engage in a dialogue with the [executive ](/osom-guide/the-executive-team/)to either narrow the scope of the service or to expand the budget.
 
 ## ...a service chooses not to use another service
 
-A [service manager](/osom-guide/service-manager/) is free to decide to use or not use another, existing service within the organisation. The executive may disagree with that decision, and dialogue during a service assessment to help to establish a shared understanding of the best approach. This is particularly true of services that are in early [lifecycle](/osom-guide/lifecycle/) stages.
+A [service manager](/osom-guide/service-manager/) is free to decide to use or not use another, existing service within the organisation. The executive may disagree with that decision, and dialogue during a service assessment to help to establish a shared understanding of the best approach. This is particularly true of services that are in early [lifecycle](/osom-guide/service-lifecycle/) stages.
 
 The executive should use the service assessment to either help guide the service towards a more effective way of achieving its goals, or as a signal detection mechanism to understand unmet [user needs](/osom-guide/user-needs/) or services that aren't as effective as they could be.
 
