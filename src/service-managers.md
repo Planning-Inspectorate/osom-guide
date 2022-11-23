@@ -1,12 +1,11 @@
 ---
-
 layout: document
 subtitle: Service Managers
 tags:
+  - people
+---
 
-- people
-
-**To be replaced with DDaT and Civil Service Success Profile capabilities and PINS D&D "People Focused" approach to be replace the service manager responsibilities and support measures above.**
+** To be replaced with DDaT and Civil Service Success Profile capabilities and PINS D&D "People Focused" approach to be replace the service manager responsibilities and support measures above.**
 
 ## Service managers
 
