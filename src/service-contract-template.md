@@ -9,7 +9,7 @@ subtitle: Service Contract Template
 
 ## Service Manager: _name_
 
-### Lifecycle: _[pick a stage](/osom-guide/lifecycle)_
+### Lifecycle: _[pick a stage](/osom-guide/service-lifecycle)_
 
 ### Evolution: _[pick a stage](/osom-guide/evolution)_
 
