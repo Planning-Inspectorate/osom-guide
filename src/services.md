@@ -2,9 +2,9 @@
 layout: document
 subtitle: Services
 tags:
-  - concept
----
+- concept
 
+---
 OSOM services and the network of interactions they form are two key parts of OSOM, the other being the [executive](/osom-guide/the-executive-team).
 
 The service network does the heavy lifting for the organisation. It delivers against the user needs that the organisation attempts to address for third parties or the needs that arise through tackling those.
@@ -23,3 +23,5 @@ To govern the network of services, the [executive](/osom-guide/the-executive-tea
 2. Performance data
 3. The guidance that the service manager has rejected
 4. [Correction of Error documents](/osom-guide/correction-of-errors-document) as they are created
+
+**Testy test test**
