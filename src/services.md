@@ -23,5 +23,3 @@ To govern the network of services, the [executive](/osom-guide/the-executive-tea
 2. Performance data
 3. The guidance that the service manager has rejected
 4. [Correction of Error documents](/osom-guide/correction-of-errors-document) as they are created
-
-**Testy test test**
