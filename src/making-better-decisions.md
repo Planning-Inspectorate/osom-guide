@@ -9,11 +9,11 @@ OSOM builds upon and endorses a set of guides to better decisions known as "Ward
 
 Simon Wardley's doctrine is a collection of patterns that were carefully researched from the world's most successful organisations, and have been used to evaluate and then underpin its approach to improving organisations, and ultimately to develop [OSOM](/)
 
-The decision guides don’t inform us of the precise steps that need to be taken, but they do help us to understand how we’d prefer to see an organisation act: whether it’s assumptions being challenged freely and often, ensuring the user needs are focused upon, embracing uncertainty, or using failure as a tool, amongst others.
+The decision guides don't inform us of the precise steps that need to be taken, but they do help us to understand how we'd prefer to see an organisation act: whether it’s assumptions being challenged freely and often, ensuring the user needs are focused upon, embracing uncertainty, or using failure as a tool, amongst others.
 
 This text has been derived from [Simon Wardley's writings on medium](http://medium.com/wardleymaps) and in [Wardleypedia](https://wardleypedia.org/mediawiki/index.php/Doctrine_Patterns)
 
-[![Wardley's Doctrine](./assets/img/doctrine-behaviours.png)](./assets/img/doctrine-behaviours.png)
+[![Wardley's Doctrine](../assets/img/doctrine-behaviours.png)](../assets/img/doctrine-behaviours.png)
 
 ## Communication
 
@@ -23,7 +23,7 @@ We want to ensure that people speak freely, using language everybody understands
 
 A necessity for effective collaboration is a common language. If we
 use words that have different meanings to different people, or words
-that others don’t understand then we hinder our ability to work as an
+that others don't understand then we hinder our ability to work as an
 effective group.
 
 ### Do we challenge assumptions?
@@ -114,7 +114,7 @@ exists then we try to avoid the urge to re-invent it.
 
 ### Do we use appropriate standards?
 
-If something is industrialized and if standards exist then we try to
+If something is industrialised and if standards exist then we try to
 use them. There's always a temptation to build a better standard but
 we try to avoid this unless we have an extremely compelling reason to
 do so. If we need a toaster, we buy a toaster and we don't try
@@ -156,7 +156,7 @@ We strive to improve continuously. Do we set exceptional standards? We strive fo
 
 ## Learning
 
-Building methods of learning into the organization is essential to improve our organization. These doctrine patterns lead us towards that.
+Building methods of learning into the organization is essential to improve our organisation. These doctrine patterns lead us towards that.
 
 When in doubt, we do something. Not because we know it is the right answer, but because it might be.
 
@@ -247,8 +247,8 @@ We try to find and grow the best people with the best aptitude and attitude for 
 
 ### Do we recognize that there is no single culture?
 
-We understand that an organization that plans for longevity needs to cope with not only the discovery of new things but also the use of things that have become industrialized while transitioning other things between these two extremes. We will, therefore, need to allow for different approaches at different times. We won't insist upon round pegs or square holes; we won't grind people down into one way of looking at the world.
+We understand that an organisation that plans for longevity needs to cope with not only the discovery of new things but also the use of things that have become industrialized while transitioning other things between these two extremes. We will, therefore, need to allow for different approaches at different times. We won't insist upon round pegs or square holes; we won't grind people down into one way of looking at the world.
 
 ### Do we design for constant evolution?
 
-Whilst a team might become a semi-permanent structure, the work it undertakes will evolve. It is, therefore, a duty to ensure that work evolves through the organization and that the makeup of teams changes over time.
+Whilst a team might become a semi-permanent structure, the work it undertakes will evolve. It is, therefore, a duty to ensure that work evolves through the organisation and that the makeup of teams changes over time.
