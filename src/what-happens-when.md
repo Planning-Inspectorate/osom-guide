@@ -2,15 +2,15 @@
 layout: document
 tags: []
 subtitle: What happens when...
----
 
+---
 ## ...a service doesn't spend its budget
 
 When a service finds savings against its budget, it should be free to invest that budget elsewhere if needed.
 
 ## ...a service needs additional funding
 
-If a service feels that it cannot meet the needs enumerated in its service contract with the budget it has available, the [service manager](/osom-guide/service-manager/) should engage in a dialogue with the [executive ](/osom-guide/the-executive-team/)to either narrow the scope of the service or to expand the budget.
+If a service feels that it cannot meet the needs enumerated in its service contract with the budget it has available, the [service manager](/osom-guide/service-manager/) should engage in a dialogue with the [executive ](/osom-guide/the-executive-team/ "OCDIO")to either narrow the scope of the service or to expand the budget.
 
 ## ...a service chooses not to use another service
 
