@@ -2,16 +2,16 @@
 layout: document
 subtitle: The Executive Team
 tags:
-  - concept
+- concept
+
 ---
+The Office of the Chief Digital and Information Officer (OCDIO) provides oversight and governance to the [service network](/osom-guide/service-network) by holding [Service Managers](/osom-guide/service-managers) accountable for their services, through a number of tools and methods.
 
-The OSOM executive team provides oversight and governance to the [service network](/osom-guide/service-network) by holding [Service Managers](/osom-guide/service-managers) accountable for their services, through a number of tools and methods.
-
-In an ideal organisation, there would be no requirement for an executive _team_. The responsibilities held by the executive, and the activities required to act upon those responsibilities would be conducted entirely by a single individual. However, given constraints of time, complexity and expertise it is unlikely to be possible. Therefore the executive is responsible for augmenting their own skills with the addition of [executive team members](/osom-guide/executive-team-member) who speak with the voice of the executive.
+In an ideal organisation, there would be no requirement for the CDIO. The responsibilities held by the CDIO, and the activities required to act upon those responsibilities would be conducted entirely by a single individual. However, given constraints of time, complexity and expertise it is unlikely to be possible. Therefore the CDIO is responsible for augmenting their own skills with the addition of [executive team members](/osom-guide/executive-team-member) who speak with the voice of the CDIO.
 
 ## The role of the executive
 
-The executive has a number of roles and responsibilities in OSOM:
+The OCDIO has a number of roles and responsibilities in OSOM:
 
 1. Establish, disband, assess and hold services accountable
 2. Allocate budgets to services
@@ -25,11 +25,11 @@ The executive has a number of roles and responsibilities in OSOM:
 
 ## Establish, decommission, assess, alter, and hold services accountable
 
-A key role of the executive is to establish services; conduct assessments on them as they progress from discovery to alpha, alpha to beta, and beta to live; disband the services when no longer needed, and hold the managers of those services accountable throughout the [service lifecycle](/osom-guide/service-lifecycle).
+A key role of the OCDIO is to establish services; conduct assessments on them as they progress from discovery to alpha, alpha to beta, and beta to live; disband the services when no longer needed, and hold the managers of those services accountable throughout the [service lifecycle](/osom-guide/service-lifecycle).
 
 ### Establish Services
 
-The Executive [establishes a service](/osom-guide/establishing-a-new-service/) by publishing a [Service Contract](/osom-guide/service-contract), allocating a budget and appointing a Service Manager for the service. Typically, a new service will start the service lifecycle in discovery and progress through alpha and beta where the contract and how it is delivered will be refined until it is live.
+The OCDIO [establishes a service](/osom-guide/establishing-a-new-service/) by publishing a [Service Contract](/osom-guide/service-contract), allocating a budget and appointing a Service Manager for the service. Typically, a new service will start the service lifecycle in discovery and progress through alpha and beta where the contract and how it is delivered will be refined until it is live.
 
 In some instances - for example, as OSOM is adopted in an existing organisation - a service contract may be written for a service that already exists. In this case, the service may not progress through the service lifecycle as normal, but in all other respects should be governed as any other service.
 
@@ -37,9 +37,9 @@ In some instances - for example, as OSOM is adopted in an existing organisation 
 
 Services should be assessed at every stage in their lifecycle, as they progress from:
 
-- Discovery to alpha
-- Alpha to beta
-- Beta to live
+* Discovery to alpha
+* Alpha to beta
+* Beta to live
 
 Once a service has reached its live state, regular assessments should be conducted to understand service improvements and changes over time.
 
@@ -47,21 +47,21 @@ Once a service has reached its live state, regular assessments should be conduct
 
 In order to ensure the organisation functions both efficiently and effectively, the Executive should decommission a service when either:
 
-- new user needs are established that it is unable to meet _and..._
-- another service better meets the user's needs now _or..._
-- the user’s needs no longer exist.
+* new user needs are established that it is unable to meet _and..._
+* another service better meets the user's needs now _or..._
+* the user’s needs no longer exist.
 
 ### Alter services
 
 Occasionally a service contract as written and established through the service lifecycle will require alteration - a new user need may be identified, or some other element of the contract may need to be adjusted.
 
-The executive can do this, but should only do so sparingly: a contract change has associated risks that should not be ignored.
+The OCDIO can do this, but should only do so sparingly: a contract change has associated risks that should not be ignored.
 
 ### Hold services accountable
 
-The Executive is responsible for holding Service Managers accountable for the services they operate. This includes performance, conformance to guidance, methodology, decision making, and any other consideration the executive wishes.
+The OCDIO is responsible for holding Service Managers accountable for the services they operate. This includes performance, conformance to guidance, methodology, decision making, and any other consideration the executive wishes.
 
-It should be noted that the Executive does not have the authority to dictate any of these elements to the service, via the Service Manager, but it does have the authority to appoint and replace the Service Manager if it sees fit.
+It should be noted that the OCDIO does not have the authority to dictate any of these elements to the service, via the Service Manager, but it does have the authority to appoint and replace the Service Manager if it sees fit.
 
 ## Allocate budgets to services
 
@@ -71,7 +71,7 @@ Budget allocation is a complex task that needs to be carefully considered. One a
 
 ## Review and analyse fitness data & maps
 
-The executive reviews and analyses fitness data published by services, and Wardley Maps of each service produced by their Service Managers. The fitness data is used to understand the performance of the service: is it meeting the needs of the users as intended?
+The OCDIO reviews and analyses fitness data published by services, and Wardley Maps of each service produced by their Service Managers. The fitness data is used to understand the performance of the service: is it meeting the needs of the users as intended?
 
 The fitness data from services should also be considered in relation to other services too. For example, in a hypothetical service network for an e-commerce website, the cost of hardware infrastructure per customer transaction could only be derived from aggregating fitness data from multiple services. It is up to the executive to determine the aggregations they consider to be important.
 
@@ -81,17 +81,17 @@ Benefits realization should be reported through these mechanisms.
 
 ## Issue mandates to manipulate the service network
 
-When changes to services or the service network are foreseen or desired, the executive issues mandates to the appropriate service managers. A mandate shouldn’t alter a service contract, but it may have an impact on the way a service manager chooses to meet the needs enumerated in the contract.
+When changes to services or the service network are foreseen or desired, the OCDIO issues mandates to the appropriate service managers. A mandate shouldn’t alter a service contract, but it may have an impact on the way a service manager chooses to meet the needs enumerated in the contract.
 
 ## Review Correction of Error documents
 
-When problems arise inside services, Service Managers are expected to publish [Correction of Error](/osom-guide/correction-of-errors "Correction of Error") (CoE) documents to the organisation, which help it to learn and grow. The executive should review and consider those CoE documents to understand if there is additional guidance that should be considered for publication.
+When problems arise inside services, Service Managers are expected to publish [Correction of Error](/osom-guide/correction-of-errors "Correction of Error") (CoE) documents to the organisation, which help it to learn and grow. The OCDIO should review and consider those CoE documents to understand if there is additional guidance that should be considered for publication.
 
-The executive should consider conducting a regular meeting with all Service Managers where CoE documents are reviewed publicly to ensure a high level of awareness of opportunities for improvement throughout the organisation’s service network.
+The OCDIO should consider conducting a regular meeting with all Service Managers where CoE documents are reviewed publicly to ensure a high level of awareness of opportunities for improvement throughout the organisation’s service network.
 
 ## Consider, publish and endorse guidance
 
-The executive is responsible for considering and publishing guidance for service managers to consider. This may include guidance on technology selection, architectural patterns, security policies, procurement processes, etc.
+The OCDIO is responsible for considering and publishing guidance for service managers to consider. This may include guidance on technology selection, architectural patterns, security policies, procurement processes, etc.
 
 This may be guidance from outside the OSOM organisation in the form of legislation or best practice, or it may emerge from within the service organisation as a result of considering Correction of Errors.
 
@@ -105,14 +105,14 @@ In any service-based model, it can be hard to ensure people are evaluated fairly
 
 CoPs are freely associated with anybody in the organisation. It is up to the executive to determine when a community has reached a sufficient level of maturity to assist service managers with guidance on evaluation for its practitioners, and then endorse that CoP to do so.
 
-The executive should work with communities of practice to ensure that where possible all professions are represented by one or more Communities of Practice.
+The OCDIO should work with communities of practice to ensure that where possible all professions are represented by one or more Communities of Practice.
 
 ## Mediate between services
 
-In any service network, disputes will arise between services that serve each other. When this occurs, the executive must mediate those disputes and find resolution through the mechanisms it already has: mandates, contract alterations, assessments, etc.
+In any service network, disputes will arise between services that serve each other. When this occurs, the OCDIO must mediate those disputes and find resolution through the mechanisms it already has: mandates, contract alterations, assessments, etc.
 
 ## Monitor and advocate better decision making
 
-The executive is responsible for advocating and monitoring the adherence to the [40 guides to better decisions](/osom-guide/making-better-decisions). One of the ways in which this happens is through the [Correction of Error process](/osom-guide/correction-of-errors/).
+The OCDIO is responsible for advocating and monitoring the adherence to the [40 guides to better decisions](/osom-guide/making-better-decisions). One of the ways in which this happens is through the [Correction of Error process](/osom-guide/correction-of-errors/).
 
 Each of the elements of OSOM has been designed in conjunction with the application of those behaviours, and the executive is responsible for constantly being aware of opportunities to alter the operating model more in line with them when needed.
