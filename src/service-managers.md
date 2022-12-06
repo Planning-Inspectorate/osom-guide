@@ -2,10 +2,10 @@
 layout: document
 subtitle: Service Managers
 tags:
-  - people
----
+- people
 
-** To be replaced with DDaT and Civil Service Success Profile capabilities and PINS D&D "People Focused" approach to be replace the service manager responsibilities and support measures above.**
+---
+\** To be replaced with DDaT and Civil Service Success Profile capabilities and PINS D&D "People Focused" approach to replace the service manager responsibilities and support measures above.** The role of the Service manager is currently provisional as the Operating model is established. 
 
 ## Service managers
 
@@ -75,23 +75,23 @@ The service manager understands the service’s users. They are able to identify
 
 The organisation’s executive requires services managers to:
 
-- **Use the allocated service budget wisely.** Each service is allocated a budget by the[ executive](https://osom.guide/executive) and is responsible for ensuring it is used wisely. This budget should allow the service manager to build the team they need and perform any activities needed for its[ lifecycle stage](https://osom.guide/lifecycle).
-- **Staffing & line management.** It is up to the service manager to staff the team as they see fit, with the people they need to perform the required activities. The cost of the team needs to be met from the budget that the service has been allocated. Members of the team are line-managed by the service manager, or by the management structure that the service manager puts in place. In all cases, the performance of team members should be considered in accordance with guidance from the[ community of practice](https://osom.guide/community-of-practice) that represents their profession.
-- **Choose appropriate methods.** Different types of services require different approaches for different stages of[ evolution](https://osom.guide/evolution/) and different[ lifecycle](https://osom.guide/lifecycle/) phases. A novel service that addresses user needs in a completely new way requires different project methodologies, people, and techniques from the operation of a product or the management of a contract from a third-party supplier. The service manager is accountable for deciding the most appropriate way to run their team for their particular service.
-- **Publish Correction of Error documents.** Building and running a service can be challenging, issues and problems occur regularly. To help the organisation learn in a methodical, systematic way, service managers write about the problems they face in[ Correction of Error](https://osom.guide/coe/) documents.
-- **Publish measurements for the service.** Each service has relevant measurements recorded in its service contract. The service manager ensures that the values for those measurements are captured regularly, and[ reported in an appropriate way](https://osom.guide/measuring-service-performance/#recording-service-performance-measures/).
-- **Ultimately be responsible** for the successful operation and continuous improvement of the service
+* **Use the allocated service budget wisely.** Each service is allocated a budget by the[ executive](https://osom.guide/executive) and is responsible for ensuring it is used wisely. This budget should allow the service manager to build the team they need and perform any activities needed for its[ lifecycle stage](https://osom.guide/lifecycle).
+* **Staffing & line management.** It is up to the service manager to staff the team as they see fit, with the people they need to perform the required activities. The cost of the team needs to be met from the budget that the service has been allocated. Members of the team are line-managed by the service manager, or by the management structure that the service manager puts in place. In all cases, the performance of team members should be considered in accordance with guidance from the[ community of practice](https://osom.guide/community-of-practice) that represents their profession.
+* **Choose appropriate methods.** Different types of services require different approaches for different stages of[ evolution](https://osom.guide/evolution/) and different[ lifecycle](https://osom.guide/lifecycle/) phases. A novel service that addresses user needs in a completely new way requires different project methodologies, people, and techniques from the operation of a product or the management of a contract from a third-party supplier. The service manager is accountable for deciding the most appropriate way to run their team for their particular service.
+* **Publish Correction of Error documents.** Building and running a service can be challenging, issues and problems occur regularly. To help the organisation learn in a methodical, systematic way, service managers write about the problems they face in[ Correction of Error](https://osom.guide/coe/) documents.
+* **Publish measurements for the service.** Each service has relevant measurements recorded in its service contract. The service manager ensures that the values for those measurements are captured regularly, and[ reported in an appropriate way](https://osom.guide/measuring-service-performance/#recording-service-performance-measures/).
+* **Ultimately be responsible** for the successful operation and continuous improvement of the service
 
 ### Relevant skills (SFIA)
 
 A service manager may not have each of these skills, but in order for a service to operate it is likely the team will be able to display them.
 
-- Demonstrates effective oral and written communication skills when engaging on issues with colleagues, users/customers, suppliers and partners.
-- Understands and effectively applies appropriate methods, tools, applications and processes.
-- Demonstrates judgement and a systematic approach to work.
-- Effectively applies digital skills and explores these capabilities for their role.
-- Learning and professional development — takes the initiative to develop own knowledge and skills by identifying and negotiating appropriate development opportunities.
-- Security, privacy and ethics — demonstrates appropriate working practices and knowledge in non-routine work. Appreciates how own role and others support appropriate working practices.
+* Demonstrates effective oral and written communication skills when engaging on issues with colleagues, users/customers, suppliers and partners.
+* Understands and effectively applies appropriate methods, tools, applications and processes.
+* Demonstrates judgement and a systematic approach to work.
+* Effectively applies digital skills and explores these capabilities for their role.
+* Learning and professional development — takes the initiative to develop own knowledge and skills by identifying and negotiating appropriate development opportunities.
+* Security, privacy and ethics — demonstrates appropriate working practices and knowledge in non-routine work. Appreciates how own role and others support appropriate working practices.
 
 ### [Knowledge](https://sfia-online.org/en/sfia-8/responsibilities/knowledge)
 
