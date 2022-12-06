@@ -9,7 +9,7 @@ The Office of the Chief Digital and Information Officer (OCDIO) provides oversig
 
 In an ideal organisation, there would be no requirement for the CDIO. The responsibilities held by the CDIO, and the activities required to act upon those responsibilities would be conducted entirely by a single individual. However, given constraints of time, complexity and expertise it is unlikely to be possible. Therefore the CDIO is responsible for augmenting their own skills with the addition of [executive team members](/osom-guide/executive-team-member) who speak with the voice of the CDIO.
 
-## The role of the executive
+## The role of the Office of the Chief Digital Information Officer
 
 The OCDIO has a number of roles and responsibilities in OSOM:
 
