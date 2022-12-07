@@ -11,7 +11,7 @@ The second circumstance occurs when two or more existing services are addressing
 
 To establish the service in both cases, a service contract should be drafted that documents the user needs, a service manager should be appointed and a budget allocated for the discovery [phase of development](/osom-guide/service-lifecycle/).
 
-When the discovery concludes, the outcome should be presented to the executive with the understanding that what has been learned may influence the contents of the service contract.
+When the discovery concludes, the outcome should be presented to the Office of the CDIO with the understanding that what has been learned may influence the contents of the service contract.
 
 ### Steps required to draft a service contract
 

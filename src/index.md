@@ -5,15 +5,17 @@ tags:
 hideaside: true
 subtitle: ""
 ---
+
 # Welcome to the PINS D&D Service Model User Guide
 
 Welcome to the Planning Inspectorate's (PINS) Data & Digital Service Model User Guide.
 
 This guide will become a key resource for:
-* **Service managers** - looking for information about setting up and running their service teams.
-* **Service team members** - looking to understand their role adn the broader responsibilities and support available to them.
-* **Members of the Office of the Cheif Digital and Information Officer (OCDIO)** - looking to understand processes and repsonsibilities as representatives of Rachel Graham, CDIO.
-* **Customers/PINS colleagues** - looking for an in-depth understanding of the PINS D&D Service Model and demand management processes.
+
+- **Service managers** - looking for information about setting up and running their service teams.
+- **Service team members** - looking to understand their role adn the broader responsibilities and support available to them.
+- **Members of the Office of the Chief Digital and Information Officer (OCDIO)** - looking to understand processes and repsonsibilities as representatives of Rachel Graham, CDIO.
+- **Customers/PINS colleagues** - looking for an in-depth understanding of the PINS D&D Service Model and demand management processes.
 
 The service model we are adopting in PINS D&D is based on Stance's Organised Services Operating Model (OSOM) but also draws from best practice across government and industry; and is being adapted to work for PINS, putting the **"people" in PINS at its heart**.
 
@@ -31,7 +33,7 @@ between those functions.
 
 The operating model has evolved by encouraging a [common set of good behaviours](/osom-guide/making-better-decisions) at multiple organisations and discovering an organisational design and supporting processes that occur as a consequence.
 
-The key components of OSOM are an executive capability that provides
+The key components of OSOM are an Office of the CDIO that provides
 oversight & governance and a network of services that progress through
 a simple [service lifecycle](/osom-guide/service-lifecycle) compatible with the
 [Government Digital
@@ -49,13 +51,13 @@ The key to adapting an operating model for any organisation is to be aware of th
 
 ## Elements of OSOM
 
-### The executive
+### The Office of the CDIO
 
-The [OSOM executive](/osom-guide/the-executive-team) governs the network of services and
+The [Office of the CDIO](/osom-guide/office-of-the-cdio) governs the network of services and
 holds the managers of those services to account through various
 mechanisms documented in terms of reference.
 
-The executive also has a role in advocating and monitoring the adoption of [guides to better decisions](/osom-guide/making-better-decisions) throughout the organisation, which provides a collection of 40 universally useful patterns of behaviour that should be encouraged wherever possible.
+The Office of the CDIO also has a role in advocating and monitoring the adoption of [guides to better decisions](/osom-guide/making-better-decisions) throughout the organisation, which provides a collection of 40 universally useful patterns of behaviour that should be encouraged wherever possible.
 
 ### The service network
 
