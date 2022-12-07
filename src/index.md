@@ -14,7 +14,7 @@ This guide will become a key resource for:
 
 - **Service managers** - looking for information about setting up and running their service teams.
 - **Service team members** - looking to understand their role adn the broader responsibilities and support available to them.
-- **Members of the Office of the Chief Digital and Information Officer (OCDIO)** - looking to understand processes and repsonsibilities as representatives of Rachel Graham, CDIO.
+- **Members of the Office of the Chief Digital and Information Officer (Office of the CDIO)** - looking to understand processes and repsonsibilities as representatives of Rachel Graham, CDIO.
 - **Customers/PINS colleagues** - looking for an in-depth understanding of the PINS D&D Service Model and demand management processes.
 
 The service model we are adopting in PINS D&D is based on Stance's Organised Services Operating Model (OSOM) but also draws from best practice across government and industry; and is being adapted to work for PINS, putting the **"people" in PINS at its heart**.
