@@ -2,14 +2,14 @@
 layout: document
 subtitle: Service Assessments
 tags:
-- processes
-
+  - processes
 ---
-To help ensure the smooth running of a service network, the OCDIO needs to assess each [service](/osom-guide/services/) regularly. This assessment can be conducted directly by the executive or delegated to a team of experts assembled for the task.
+
+To help ensure the smooth running of a service network, the Office of the CDIO needs to assess each [service](/osom-guide/services/) regularly. This assessment can be conducted directly by the Office of the CDIO or delegated to a team of experts assembled for the task.
 
 The primary purpose of the assessment is to understand how well the service meets the user needs, but it will also examine how the service is being managed and how well it has adopted the [behaviours](/osom-guide/doctrine).
 
-An agenda including the OCDIO's chosen [assessment criteria](/osom-guide/service-assessment-criteria/) will be distributed in advance, and once assessed the OCDIO will publish a [service assessment report](/osom-guide/service-assessment-report).
+An agenda including the Office of the CDIO's chosen [assessment criteria](/osom-guide/service-assessment-criteria/) will be distributed in advance, and once assessed the Office of the CDIO will publish a [service assessment report](/osom-guide/service-assessment-report).
 
 While the purpose of the assessment remains the same, the nature of the assessment will change as the service progresses through the [lifecycle](/osom-guide/lifecycle/).
 

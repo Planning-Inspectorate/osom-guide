@@ -9,4 +9,4 @@ The Correction of Error (CoE) process was inspired by the [AWS](https://wa.aws.a
 
 ## The Correction of Errors review
 
-The [executive](/osom-guide/executive) should [conduct regular reviews](/osom-guide/the-executive-team#review-correction-of-error-documents) with all service managers of the unreviewed, published [CoE documents](/osom-guide/correction-of-errors-document). This review allows other service managers to benefit from the experience of the error, without being a part of the service team that experienced the error.
+The [Office of the CDIO](/osom-guide/office-of-the-cdio) should [conduct regular reviews](/osom-guide/office-of-the-cdio#review-correction-of-error-documents) with all service managers of the unreviewed, published [CoE documents](/osom-guide/correction-of-errors-document). This review allows other service managers to benefit from the experience of the error, without being a part of the service team that experienced the error.

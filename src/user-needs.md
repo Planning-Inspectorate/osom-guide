@@ -2,9 +2,9 @@
 layout: document
 subtitle: User Need
 tags:
-- concept
-
+  - concept
 ---
+
 An organisation should be able to list the users it has, and the needs of those users that it strives to meet.
 
 To understand the total activity of an organisation, the only thing necessary is to enumerate all of the needs.
@@ -31,7 +31,7 @@ This user need is a particularly good example, because it doesn't make assumptio
 
 Outcomes are encapsulated in the _why_ part of a user need, and [service metrics](/osom-guide/service-performance-measures) should be related the outcome.
 
-Often finding a good way to measure a particular outcome is challenging. From the example above, it might be hard to become immediately aware if someone was unable to prove their identity abroad. However, as long as the [executive ](/osom-guide/the-executive-team/)can agree, a proxy measure can be used as a substitute for a direct measure.
+Often finding a good way to measure a particular outcome is challenging. From the example above, it might be hard to become immediately aware if someone was unable to prove their identity abroad. However, as long as the [Office of the CDIO](/osom-guide/office-of-the-cdio/) can agree, a proxy measure can be used as a substitute for a direct measure.
 
 In this case, it could be whether or not someone attempted to travel abroad having used the service.
 
